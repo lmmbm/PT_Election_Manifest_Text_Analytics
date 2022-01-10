@@ -12,6 +12,7 @@ Project has 4 main parts:
       - take out generic words 
       - apply synonym substituition
     - Sub-select only most used words (to feed to next step)
+    - Run can start mid this file reusing the "Processed CH+BE+PCP+Livre+PSD+PS+IL" file (unless you want to wait hours on the initial processing)
  - Clustering and MDS
       - Check proximity between Parties
       - MDS done from 1 to 4 dimensions
