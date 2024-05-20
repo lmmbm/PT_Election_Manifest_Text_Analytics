@@ -1,11 +1,11 @@
 2Exclude
-propostas  bloco
 bloco
 pp
 vii
 três
 seis
 /
+0
 0.5
 l
 I
@@ -38,7 +38,6 @@ i
 2022
 2024
 2030
-iniciativa  liberal
 —
 –
 -
@@ -52,10 +51,13 @@ aos
 à
 às
 até
+b
+c
 cada
 cds
 com
 como
+d
 da
 das
 de
@@ -66,11 +68,19 @@ em
 essa
 este
 estes
+f
+g
+h
+i
 ii
 iii
 iniciativa liberal
 isso
 iv
+j
+k
+l
+m
 mil
 na
 nas
@@ -114,8 +124,6 @@ d
 f
 desta
 esta
-está
-estão
 https
 i
 m
@@ -126,5 +134,45 @@ pt
 qual
 quer
 seja
+R
 tal
 entre
+cdu
+ad
+º
+ª
+á
+abstenção be
+abstenção il
+abstenção il be
+abstenção il favor
+x capítulo
+x v capítulo
+x x capítulo
+xv 1ª
+alteração oe 24
+favor il
+favor il be
+il be
+oe 24 nº
+p
+p r
+p r r
+partido socialista be
+partido socialista il
+projecto lei n
+projecto lei nº
+proposta alteração oe
+r 0
+r r
+r r 0
+sem votação
+socialista be
+socialista il
+socialista il be
+t
+t r
+v capítulo
+xi
+projecto lei
+projecto resolução
